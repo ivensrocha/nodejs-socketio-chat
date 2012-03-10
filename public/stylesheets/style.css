@@ -1,0 +1,33 @@
+#header { 
+  background: #ccc;
+  margin-bottom: 5%;
+
+}
+
+#content {
+	margin-bottom: 10px;
+}
+
+#footer {
+	margin-top: 10%;
+	background: #ccc;
+	border-top: 1px solid;
+}
+
+#header h1 {
+	padding: 10px;
+	color: blue;
+}
+
+#footer h4 {
+	padding: 10px;
+	font-size: 90%;
+}
+
+#content #chatbox {
+    width: 90%;
+	height:300px; 
+	padding: 10px;
+    background: yellow;
+    margin-bottom:10px;
+}
